@@ -1,0 +1,15 @@
+<settings>
+  <profiles>
+    <profile>
+      <id>jooq-codegen</id>
+      <properties>
+        <db.username>postgres</db.username>
+        <db.password>root</db.password>
+      </properties>
+    </profile>
+  </profiles>
+
+  <activeProfiles>
+    <activeProfile>jooq-codegen</activeProfile>
+  </activeProfiles>
+</settings>
